@@ -5,7 +5,7 @@ Author: Omar Bahaa
 E-mail: omar.bahaa@ejust.edu.eg
 
 
-Project part of CSE324 Embedded systems course at Egypt-Japan University of Science adn Technology
+Project part of CSE324 Embedded systems course at Egypt-Japan University of Science and Technology
 
 This project contains one assembly file containing avr assembly code for rc5 key expansion, encryption, and decryption.
 
